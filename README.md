@@ -1,25 +1,28 @@
-<h1 align="center">Hi 👋, I'm MD. Zabir Hossain</h1>
-<h3 align="center">Web Developer</h3>
+### Hi there 👋, It's me MD. Zabir Hossain.
+#### I'm learnig
+![I'm learnig](https://tenor.com/view/animation-cartoons-toons-danny-phantom-danny-fenton-gif-14827989)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zabir-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="zabir-hossain" /> </p>
+I like to work with joy.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zabir-hossain" alt="zabir-hossain" /></a> </p>
+Skills: JAVA / JS 
 
-- 🔭 I’m currently working on **JAVA**
+- 🔭 I’m currently working on Skill developing 
+- 🌱 I’m currently learning JAVA 
+- 📫 How to reach me: zabirhossain56@gmail.com 
+- ⚡ Fun fact: i don't eat fish. 
 
-- 🌱 I’m currently learning **Spring boot**
 
-- 📫 How to reach me **zabirhossain56@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zabir-Hossain)  
 
-- ⚡ Fun fact **I don't eat fish**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zabir-Hossain)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zabir-Hossain)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zabir-hossain&show_icons=true&locale=en&layout=compact" alt="zabir-hossain" /></p>
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Zabir-Hossain/contributions?format=svg&private=true)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zabir-hossain&show_icons=true&locale=en" alt="zabir-hossain" /></p>
+![GitHub metrics](https://metrics.lecoq.io/Zabir-Hossain)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Zabir-Hossain)  
+
